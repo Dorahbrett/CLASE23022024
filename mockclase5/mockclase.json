@@ -1,0 +1,6 @@
+{
+  "autos": [
+    { "id": 1, "marca": "Chevrolet", "modelo": "cruze", "anio": 2023 },
+    { "id": 2, "marca": "Toyota", "modelo": "Yaris", "anio": 2020 }
+  ]
+}
